@@ -1,3 +1,3 @@
 #learning Git Class
 
-this is superstory!!!
+this is a real description!!!
